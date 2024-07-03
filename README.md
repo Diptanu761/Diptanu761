@@ -43,7 +43,7 @@
 
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=diptanu761&show_icons=true&locale=en&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibamroy9826&layout=compact&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="https://github-readme-stats.vercel.app/api/top-langs?username=diptanu761&show_icons=true&locale=en&layout=compact" alt="diptanu761" />&nbsp;&nbsp;
 </p>
 
 
