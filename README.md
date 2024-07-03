@@ -7,7 +7,7 @@
   <p align="center">
   <a href="https://youtube.com/@ziddiarmymcpe?si=4W86F_VWandSWRL7"><img width="32px" alt="Youtube" title="Youtube" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/shibam-roy-509774257/"><img width="32px" alt="Instagram" title="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/></a>
+  <a href="https://www.instagram.com/iamdev7601?igsh=am93cHc1dGs1dGxq"><img width="32px" alt="Instagram" title="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -20,11 +20,10 @@
 </div>
 
 
-- 👋 Hi, I’m @ShibamRoy9826
-- 👀 I’m interested in desktop applications, Machine learning and Web Development.
-- 🌱 I’m currently learning DSA.
-- 💞️ I’m looking to collaborate on Logic related problems.
-- 📫 You can reach me through royshibam9826@gmail.com. or https://shibamroy9826.github.io
+- 👋 Hi, I’m @Diptanu761
+- 👀 I’m interested in coding and Web Development.
+- 🌱 I’m currently learning Python and JavaScript
+- 📫 You can reach me through diptanusaha54@gmail.com. or https://github.com/Diptanu761
 
 <br>
 <div align="center">
@@ -36,7 +35,7 @@
 
 ## 💻 My Tech Stack:
 
-[![Python,Tensorflow, Scikit-learn, C++, HTML, CSS, Javascript, Django, Tailwind, Qt](https://skillicons.dev/icons?i=python,tensorflow,sklearn,cpp,html,css,javascript,django,tailwind,qt)](https://skillicons.dev)
+[![Python, HTML, CSS, Javascript](https://skillicons.dev/icons?i=python,html,css,javascript)](https://skillicons.dev)
 
 
 ## 🏆 My Stats:
@@ -56,7 +55,7 @@
 
 ## Self Introduction In Brief 
 
-Hi, I am Shibam Roy, my age is 17 and i try to create amazing applications to reduce your computer effort! my hobbies are Programming, Watching Anime, Playing Guitar, Studies, reading e-books and articles, and that's all.Telling about my goal in life, i want to be a Great Data Scientist one day! I know Python ,C++,HTML,CSS,and a little bit of javascript.I live in India,Tripura,Agartala,Santipara. Have a nice day:)
+Hi, I am Diptanu Saha, my age is 17 and i try to create amazing applications to reduce your computer effort! my hobbies are Programming, Watching Anime, Studies, making gaming videos and that's all. Telling about my goal in life, i want to be a IItian One Day! I know Python, HTML, CSS, and a little bit of javascript.I live in India,Tripura,Udaipur. Have a nice day:)
 
 </div>
 
