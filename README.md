@@ -5,9 +5,9 @@
 </p>
 
   <p align="center">
-  <a href="https://youtube.com/@shibamroy787?si=thW4okruBGbOFbY5"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://youtube.com/@ziddiarmymcpe?si=4W86F_VWandSWRL7"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/shibam-roy-509774257/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/shibam-roy-509774257/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
