@@ -55,7 +55,7 @@
 
 ## Self Introduction In Brief 
 
-Hi, I am Diptanu Saha, my age is 17 and i try to create amazing applications to reduce your computer effort! my hobbies are Programming, Watching Anime, Studies, making gaming videos and that's all. Telling about my goal in life, i want to be a IItian One Day! I know Python, HTML, CSS, and a little bit of javascript.I live in India,Tripura,Udaipur. Have a nice day:)
+Hello, I'm Diptanu Saha. I'm 17 years old and passionate about developing practical applications that make using computers easier. I live in Udaipur, Tripura, India, and spend my time programming, watching anime, studying, and creating gaming videos. I'm currently learning more about web development using Python, HTML, CSS, and JavaScript, and my long-term goal is to pursue my studies at IIT.
 
 </div>
 
